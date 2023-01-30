@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Componentes Material Design</string>
+    <string name="titulo_nv">Componentes Material Design</string>
+    <string name="item1_nav">Item1</string>
+    <string name="item2_nav">Item2</string>
+    <string name="item3_nav">Item3</string>
+    <string name="item4_nav">Item4</string>
+    <string name="item5_nav">Item5</string>
+    <string name="item6_nav">Item6</string>
+    <string name="item7_nav">Item7</string>
+    <string name="ajustes_item1_op">Ajustes</string>
+    <string name="anadir_item2_op">Añadir</string>
+    <string name="editar_item3_op">Editar</string>
+    <string name="aceptar_snack">Aceptar</string>
+    <string name="validar_btn">Validar</string>
+    <string name="error_correo">Correo electrónico inválido</string>
+    <string name="guardar_registro">Se guarda el registro</string>
+    <string name="item1_tab">Op 1</string>
+    <string name="item2_tab">Op 2</string>
+    <string name="item3_tab">Op 3</string>
+    <string name="mens_op">Op</string>
+    <string name="mens_fab">Fab Button</string>
+    <string name="text_hintCorreo">Fab Button</string>
+</resources>
